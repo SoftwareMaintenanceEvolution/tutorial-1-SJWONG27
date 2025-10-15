@@ -6,9 +6,9 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - 🧠 **Course expectations**: To gain hands-on experience in maintaining, debugging, and evolving existing software systems while following good engineering practices.  
 
 
-![My Image](tutorial-1-SJWONG27/img_soonjit.jpeg)  <!-- Link to the uploaded image -->
+![tutorial-1-SJWONG27/img_soonjit.jpeg]
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile](https://github.com/SJWONG27)
+You can view my personalized GitHub profile [https://github.com/SJWONG27]
 
